@@ -18,7 +18,7 @@ The project uses the PhpSpreadsheet library to create and format Excel files, ma
 
 1. Clone the repository to your local machine:
    
-```git clone https://github.com/your-username/excel-data-exporter.git```
+```git clone https://github.com/rastographer/export_mysql_data_to_excel.git```
 
 2. Configure your web server (e.g., Apache, Nginx) to serve the project from the repository directory.
 
