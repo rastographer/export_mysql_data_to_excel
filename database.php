@@ -2,7 +2,7 @@
 $servername = "127.0.0.1";
 $username = "root";
 $password = "";
-$database = "alphaconnect"; // find the sample SQL in the db folder
+$database = "your_db_name"; // find the sample SQL in the db folder
 
 $conn = new mysqli($servername, $username, $password, $database);
 
